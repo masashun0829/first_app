@@ -1,0 +1,23 @@
+.post{
+  border: 1px solid;
+  width: 40%;
+  margin-top: 30px;
+}
+
+.post-date{
+  color: gray;
+}
+
+form{
+  background-color: pink;
+}
+
+  .text{
+    width: 200px;
+    background-color: green;
+  } 
+  
+  .submit{
+    width: 100px;
+    background-color: lightgreen;
+  }
